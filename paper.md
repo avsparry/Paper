@@ -2,7 +2,8 @@
 My better paper title about devices and simulations
 
 #Author
-Adam Parry, Gerrard Capes
+Gerrard Capes,
+Adam Parry, 
 
 #Introduction
 We present aircraft measurements ets. Actually we do something else more relevent to the actual paper title
