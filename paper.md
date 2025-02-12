@@ -6,3 +6,5 @@ Adam Parry
 
 #Introduction
 We present aircraft measurements ets. Actually we do something else more relevent to the actual paper title
+
+Bloggs et al 2004, Paper that is relevent to the work
