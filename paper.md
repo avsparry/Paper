@@ -1,8 +1,8 @@
 # Title
-My better paper title about devices
+My better paper title about devices and simulations
 
 #Author
-Adam Parry
+Adam Parry, Gerrard Capes
 
 #Introduction
 We present aircraft measurements ets. Actually we do something else more relevent to the actual paper title
@@ -14,3 +14,5 @@ been previously done.
 
 A large uncertaininty was found when modeliing the data vs the literature
 
+#Simulations
+This is the simulations section 
