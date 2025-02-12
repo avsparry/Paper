@@ -21,3 +21,6 @@ This time we are going to commit this change from a detached branch but
 create a branch
 
 Heres another reference from Bloggs et al 2009
+
+#Methodology
+Here is a list of equipment used to do the experiments
