@@ -1,8 +1,8 @@
 # Title
-My generic paper title about devices
+My generic paper title about devices and simulations
 
 #Author
-Adam Parry
+Adam Parry, Gerrard Capes
 
 #Introduction
 We present aircraft measurements ets. Actually we do something else more relevent to the actual paper title
