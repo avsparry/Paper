@@ -24,3 +24,7 @@ Heres another reference from Bloggs et al 2009
 
 #Methodology
 Here is a list of equipment used to do the experiments
+
+#Results
+The simulation indicate that coagulation is the dominant growth
+mechanism for thest partciles.
