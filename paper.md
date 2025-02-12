@@ -28,3 +28,6 @@ Here is a list of equipment used to do the experiments
 #Results
 The simulation indicate that coagulation is the dominant growth
 mechanism for thest partciles.
+
+#Figures
+Figures go in this section in a draft paper.
